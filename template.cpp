@@ -47,8 +47,8 @@ void solve() {
 
 int main() {
     fast_io
-    int t = 1;
-    // cin >> t;
+    int t;
+    cin >> t;
     while (t--) solve();
     return 0;
 }
